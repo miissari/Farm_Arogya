@@ -15,4 +15,4 @@ We aim to help farmers adopt **organic, eco-friendly, and sustainable** agricult
 
 🔭 Vision
 
-At **FarmArogya**, we believe that blending tradition with technology can empower farmers and strengthen communities. Our **mission** is to make sustainable farming simple, smart, and accessible to all—regardless of location, language, or resources.
+At **FarmArogya**, we believe that blending tradition with technology can empower farmers and strengthen communities. Our **mission** is to make sustainable farming simple, smart, and accessible to all regardless of location, language, or resources.
