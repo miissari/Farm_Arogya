@@ -12,11 +12,11 @@ We’re on a mission to empower farmers by bridging **traditional wisdom** with 
 
 A powerful, intuitive platform designed to support farmers at every step:
 
-* 🌾 **Farmer-Friendly Interface** – Simple, local-language UI for all ages and skill levels
-* 🤖 **AI-Powered Plant Disease Detection** – Snap a photo, get instant, accurate insights
-* 📚 **Step-by-Step Natural Farming Guides** – From seed to harvest, rooted in organic practices
-* 🧪 **DIY Organic Fertilizer & Pesticide Recipes** – Proven natural solutions, easily accessible
-* 🌐 **Multilingual Support** – Tamil | Sinhala | English for maximum inclusivity and reach
+* 🌾 **Farmer-Friendly Interface** – Simple, local-language UI for all ages and skill levels!
+* 🤖 **AI-Powered Plant Disease Detection** – Snap a photo, get instant, accurate insights!
+* 📚 **Step-by-Step Natural Farming Guides** – From seed to harvest, rooted in organic practices!
+* 🧪 **DIY Organic Fertilizer & Pesticide Recipes** – Proven natural solutions, easily accessible!
+* 🌐 **Multilingual Support** – Tamil | Sinhala | English for maximum inclusivity and reach!
 
 ---
 
